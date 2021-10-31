@@ -29,7 +29,7 @@ function setup() {
  ]]
    knife=createSprite(40,200,20,20);
    knife.addImage(knifeImage);
-   knife.scale=0.7
+   knife.scale=0.7 
   
   
   
